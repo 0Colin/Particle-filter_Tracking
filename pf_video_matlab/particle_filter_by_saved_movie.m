@@ -4,7 +4,7 @@ F_update = [1 0 1 0; 0 1 0 1; 0 0 1 0; 0 0 0 1];
 
 Npop_particles = 4000;
 
-Xstd_rgb = 50; %·½²î
+Xstd_rgb = 40; %·½²î
 Xstd_pos = 25;
 Xstd_vec = 5;
 
