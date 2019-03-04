@@ -5,7 +5,7 @@ image(Y_k)
 title('+++ Showing Particles +++')
 
 hold on
-plot(X(2,:), X(1,:), '.')
+plot(X(2,:), X(1,:), '.r')
 hold off
 
 drawnow
